@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dannythejay
-- 👀 I’m interested in not sucking at python
-- 🌱 I’m currently learning how to not suck at pyhon
+- 👀 I’m interested in python, sql and data analysis
+- 🌱 I’m currently learning how to use GoogleCloud
 - 💞️ I’m looking to collaborate on solving problems!
 - 📫 How to reach me ... leave a comment ;-)
 
